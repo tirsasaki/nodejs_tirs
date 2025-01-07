@@ -65,6 +65,10 @@ You can easily customize:
 - Button styles
 - Layout spacing
 
+  
+## 📄 License
+MIT License - Feel free to use for personal or commercial projects.
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
