@@ -1,3 +1,3 @@
-Welcome to the future
+## Welcome to the future
 
-# website landpage with animation
+Website landpage with animation
